@@ -28,7 +28,7 @@ body {
     position: absolute;
     text-align: center;
     color: #fff; /* Color del texto */
-    font-size: 12px; /* Tamaño del texto */
+    font-size: 8px; /* Tamaño del texto */
 }
 
 .text-above {
